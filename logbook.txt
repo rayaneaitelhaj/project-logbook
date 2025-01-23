@@ -1,0 +1,8 @@
+## Logbook
+
+1. **Date:** 23.01.2025  
+   **Class Topic:** Introduction to Single Page Websites  
+   **Summary:**  
+   - Set up the GitHub repository.
+   - Learned about the structure of single-page websites (HTML, CSS, and JavaScript basics).
+   - Planned the initial layout of the website.
