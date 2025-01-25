@@ -1,4 +1,4 @@
-# Project Name: [Your Project Name]
+# Project Name: [Logbook Project]
 
 ## Logbook
 
